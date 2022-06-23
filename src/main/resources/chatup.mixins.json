@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "chatup.mixins",
+  "compatibilityLevel": "JAVA_16",
+  "mixins": [
+  ],
+  "client": [
+    "ChatUpMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
